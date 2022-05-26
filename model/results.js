@@ -43,9 +43,7 @@ export default function App({ data }) {
                         <div>
                             <Doughnut data={newData} />
                         </div>
-                        <div>
-                            <Pie data={newData} />
-                        </div>
+
                     </Box>
                 </Container>
             </Paper>
