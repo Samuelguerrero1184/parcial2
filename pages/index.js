@@ -1,5 +1,5 @@
-import Header from '../mainComp/Header'
-import Tarjeta from '../mainComp/Tarjeta'
+import Header from '../components/Header'
+import Tarjeta from '../components/Tarjeta'
 import {Box, Paper, Container} from '@mui/material'
 import { createTheme } from '@mui/material/styles';
 

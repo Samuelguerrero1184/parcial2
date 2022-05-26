@@ -1,4 +1,4 @@
-import executeQuery from "../../../DBConnection/dbconn"
+import executeQuery from "../../../lib/dbconn"
 
 export default async function handler(req,res){
     const {method} = req
